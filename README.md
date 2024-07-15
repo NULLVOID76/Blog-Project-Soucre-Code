@@ -9,7 +9,11 @@ Currently, two official plugins are available:
 
 
 #TODO
-improve UI
-store image url insted of id
-loading screen
-alert for error
+
+-improve UI
+
+-store image url insted of id
+
+-loading screen
+
+-alert for error
